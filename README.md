@@ -18,7 +18,7 @@ When dealing with network packets always check the data you getting from client.
 
 - If you are not sure how to implement your idea check how [Botania](https://github.com/Vazkii/Botania) does it.
 
-Exceptions are Rannuncarpus placing blocks and Bore Lens breaking blocks.
+Exceptions are Rannuncarpus placing blocks, Bore Lens breaking blocks and Crafting Crate.
 
 # Articles
 
