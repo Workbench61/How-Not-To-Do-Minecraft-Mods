@@ -23,9 +23,9 @@ Exceptions are Rannuncarpus placing blocks and Bore Lens breaking blocks.
 # Articles
 
 - [Entities](articles/entities)
- - [isDead](articles/entities/isDead.md)
- - [Drop The Items](articles/entities/Drop-The-Items.md)
+  - [isDead](articles/entities/isDead.md)
+  - [Drop The Items](articles/entities/Drop-The-Items.md)
 - [Networking](articles/networking)
- - [Never Trust a Client](articles/networking/Never-Trust-a-Client.md)
+  - [Never Trust a Client](articles/networking/Never-Trust-a-Client.md)
 - [Gui/Containers](articles/containers)
- - [Can Iteract With](articles/containers/Can-Interact-With.md)
+  - [Can Iteract With](articles/containers/Can-Interact-With.md)
