@@ -14,4 +14,4 @@ Take a look at Bewitchment, Roots, Rustic, Astral Sorcery (recently fixed) and l
 
 ### How it works
 
-Back to the Blood Magic. Take a look at `ContainerAlchemyTable` it has a method called `canInteractWith` which leads us all the way to `TileInventory#isUsableByPlayer` and all it does is just return `true`. Event vanilla Minecraft not this bad... Take a look at `TileEntityBrewingStand#isUsableByPlayer` it gets tile from the world and compares it with container's tile and then it checks the distance from player to brewing stand to be no more than 8 (eight) blocks.
+Back to the Blood Magic. Take a look at `ContainerAlchemyTable` it has a method called `canInteractWith` which leads us all the way to `TileInventory#isUsableByPlayer` and all it does is just return `true`. Even vanilla Minecraft not this bad... Take a look at `TileEntityBrewingStand#isUsableByPlayer` it gets tile from the world and compares it with container's tile and then it checks the distance from player to brewing stand to be no more than 8 (eight) blocks.
