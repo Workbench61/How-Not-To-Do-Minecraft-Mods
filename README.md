@@ -2,7 +2,7 @@
 
 This is collection of common mistakes that many modders do.
 
-# Straight into it
+# Most Important Rules
 
 - Use `isDead`
 
