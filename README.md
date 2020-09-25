@@ -27,5 +27,7 @@ Exceptions are Rannuncarpus placing blocks, Bore Lens breaking blocks and Crafti
   - [Drop The Items](articles/entities/Drop-The-Items.md)
 - [Networking](articles/networking)
   - [Never Trust a Client](articles/networking/Never-Trust-a-Client.md)
+  - [Thread Safe](articles/networking/Thread-Safe.md)
 - [Gui/Containers](articles/containers)
   - [Can Iteract With](articles/containers/Can-Interact-With.md)
+  - [Check Your Bag Twice](articles/containers/Check-Your-Bag-Twice.md)
