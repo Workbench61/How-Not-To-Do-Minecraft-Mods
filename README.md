@@ -33,3 +33,5 @@ Exceptions are Rannuncarpus placing blocks, Bore Lens breaking blocks and Crafti
   - [Check Your Bag Twice](articles/containers/Check-Your-Bag-Twice.md)
 - [Features](articles/features)
   - [Breaking And Placing Blocks](articles/features/Breaking-And-Placing-Blocks.md)
+- [ASM](articles/asm)
+  - [Protected Shall Stay Protected](articles/asm/Protected-Shall-Stay-Protected.md)
